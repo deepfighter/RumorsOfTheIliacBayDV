@@ -1,0 +1,6 @@
+-- Cliffworms' Rumors of the Iliac Bay / Translation by Frank 'Deepfighter' Schwalb als 'Gerüchte der Iliac-Bucht'
+
+schema: *name, group, membership, minReq, flag, notes
+
+RIBDV, InitAtGameStart, M, 0, 0, Initialisierung und Zurücksetzen der Quests
+RIBRUMORSDV, NonMemberGuild, N, 0, 0, Gerüchte

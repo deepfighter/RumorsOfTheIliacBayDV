@@ -1,0 +1,337 @@
+Quest: RIBRUMORSDV
+DisplayName: Gerüchte der Illiac-Bucht
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+
+RumorsDuringQuest:   [1005]
+Ich will nicht wie ein Narr klingen, doch bin ich überzeugt, dass unser %t von den Daedra besessen ist.
+<--->
+%cn ist nach Einbruch der Dunkelheit von Untoten heimgesucht. Seid stets bewaffnet!
+<--->
+Ich habe keine Beweise, doch Ihr müsst mir glauben. Ich weiß, dass %t %rn ein Betrüger ist. Und nicht nur das, er ist auch ein Kannibale.
+<--->
+Die diesjährige Ernte sieht besser aus als je zuvor.
+<--->
+Die diesjährige Ernte sieht prächtig aus. Es wird wohl viel zu feiern geben.
+<--->
+Die gute Nachricht ist, dass die Ernte dieses Jahres so gut aussieht wie die des letzten Jahres.
+<--->
+Es scheint, als würde die Ernte dieses Jahres so gut ausfallen wie die des vergangenen Jahres.
+<--->
+Man munkelt, es gäbe eine Pest in Himmelsrand.
+<--->
+Meine Tante ist gerade aus einem kleinen Dorf am Rande von Elsweyr zurückgekehrt, das fast vollständig von einer Pest heimgesucht wurde.
+<--->
+Der Prophet, den ich sehe, sagt mir, dass %lp Anfang nächsten Jahres von der Pest heimgesucht wird.
+<--->
+Ich hörte, ein Herr in einem Dorf hat diese Woche seinen Schutzgeist erzürnt. Der örtliche Schamane prophezeit eine Pest über ganz %lp binnen Monatsfrist.
+<--->
+Man sagt, Morrowind sei dem Untergang geweiht und werde von Pest und Seuchen verwüstet, sei es in diesem oder im nächsten Jahr. Meiner Meinung nach: Kein großer Verlust. 
+<--->
+Es gibt einen Arzt in der Wildnis von Valenwald, der angeblich ein Heilmittel gegen Lykanthropie gefunden hat. Kannst du dir das vorstellen? Ich wusste nicht einmal, dass das ein Problem ist.
+<--->
+Mein Prophet sagt, die Sommersend-Inseln werden bald im Meer versinken. Er sagte nicht, wann, aber es klang nach bald.
+<--->
+Nun, man erzählt, dass in einigen abgelegenen Dörfern an der Küste von Sommersend eine Pest gemeldet wurde. Meine Quellen sind zweifelhaft, also kann ich die Wahrheit nicht bestätigen.
+<--->
+Es wird Euch nicht überraschen zu hören, dass die Schwarzmarsch wieder einmal von einer Seuche heimgesucht wird. Was gibt es Neues, nicht wahr?
+<--->
+Merkt Euch meine Worte, %ra. Die alten Götter kommen, und Schwarzmarsch wird für seine Sünden brennen.
+<--->
+Einige Freunde von mir sind losgezogen, um den Stab des Magnus zu suchen, aber sie sind verschwunden. Narren, allesamt.
+<--->
+Der %rt hatte einen Besucher, einen Gelehrten aus fernen Landen, der die Geschichte von Arrovan nachverfolgt, dem Dieb, der den Schlüssel des Skeletts führte. Offenbar hat Arrovan einige Dinge von der königlichen Familie hier in %cn gestohlen!
+<--->
+Ein Kerl war letzte Woche hier und versuchte, Informationen über den Ring von Phynaster zu verkaufen, als wären wir Narren, die an solche Dinge glauben.
+<--->
+Diese kaiserlichen Steuereintreiber gehen wirklich allen auf die Nerven. Den örtlichen habe ich seit einiger Zeit nicht mehr gesehen... nicht, dass sich jemand beschweren würde.
+<--->
+Wusstet Ihr, dass die Dunkelelfen in Morrowind Sklaven halten? Lächerlich!
+<--->
+Ich habe gehört, der %rt habe eine Affäre mit der Ehefrau eines anderen Ratsmitglieds.
+<--->
+Jeder sagt, %nam hätte %fn2 ermordet, aber ich glaube das nicht. Sie waren die besten Freunde.
+<--->
+Habt Ihr gehört, unser %rt, %rn, habe einen Adligen in einem Duell getötet, wegen einer Beleidigung?
+<--->
+Jeder klagt über Schlafmangel. Vielleicht liegt es am Wetter.
+<--->
+Und wie, denkt Ihr, konnten diese aufgeblähten kaiserlichen Plutokraten die Erlaubnis erhalten, %reg's Ebsteinlagen auszubeuten, und nicht eines unserer einheimischen Unternehmen? Fette Bestechungsgelder, sage ich Euch. Und Freunde in hohen Positionen.
+<--->
+Diejenigen, die das richtige Geld machen, sind die Steueragenten und Bürokraten. Sie nehmen ihren Anteil vom oberen Ende.
+<--->
+Jeder weiß, wer wirklich in %reg das Sagen hat. Es sind nicht die Ratsmitglieder. Niemand sitzt im Rat, wenn es %rn nicht genehm ist.
+<--->
+%fn2 wurde wegen Schmuggel angeklagt. Es scheint, jemand, den sie für eine Lieferung geschmuggelten Ebenerzes angeheuert hat, hat sie an die Behörden verraten.
+<--->
+%nam ist zurück in %cn. Und wenn Ihr %nam seht, wisst Ihr, dass es um Schmuggel geht.
+<--->
+Die Schmuggler, die von __smuggler_ aus operieren, haben ihren Kontakt in %cn verloren. Ich höre, sie arbeiten jetzt mit jemandem in einer nahegelegenen Siedlung zusammen.
+<--->
+Ja, ich habe gehört, was %nam gesagt hat. Natürlich gibt es Schmuggler in %reg. Seit wann ist das eine Neuigkeit?
+<--->
+Einige seltsame Männer kamen vor nicht allzu langer Zeit hier durch. Sie hielten im Handelshaus. Verschlossene, misstrauische Gesellen.
+<--->
+%mn2 wird niemals mit dem Schmuggeln aufhören. Es ist alles, was er kennt. Und wenn Ihr ihn hier in %cn seht, hat er etwas im Gange. Aber wo?
+<--->
+Habt Ihr von den Pilgern gehört, die gen Osten von %cn aufgebrochen sind? Das ist kein Ort für eine Pilgerschar.
+<--->
+Habt Ihr von den Pilgern gehört, die gen Westen von %cn aufgebrochen sind? Das ist kein Ort für eine Pilgerschar.
+<--->
+%fn2 fand das Labor eines Zauberers irgendwo mitten in %reg, doch sie benutzte eine Verzauberung, um zu entkommen, und nun weiß sie nicht mehr genau, wo es war.
+<--->
+Wisst Ihr, ich hörte jemanden sagen, es gebe hier in der Nähe Schmuggler. Verzeiht, ich erinnere mich nicht an die Einzelheiten.
+<--->
+Nun, da sie %fn2s kleines Versteck bei %cn gefunden haben, wo glaubt Ihr, hat sie ihr Geschäft nun hinverlegt? Es muss in der Nähe sein, bei dem Volumen, das sie schmuggelt.
+<--->
+Ich habe von vielen Menschen gehört, die schlechte Träume haben und schlimme Omen sehen. Habt Ihr das nicht auch bemerkt?
+<--->
+Man sagt, es gibt hier in der Nähe von %cn eine Anzahl junger Einheimischer, die einem Vampir namens %nam folgen. Sie verstecken sich in einer der Krypten und treiben dort ihr Unwesen. Dummköpfe, wenn Ihr mich fragt.
+<--->
+Einer der Magier in der Gilde der Magier möchte mit einer Hexe aus einem Zirkel sprechen. Aber es besteht kaum eine Chance, dass eine Hexe nach %cn kommt.
+<--->
+Man sagt, die Ritterorden verleihen ihren besten Rekruten gute Rüstungen.
+<--->
+Ich habe von einem reisenden Magier gehört, der Kreaturen beschwört, nur um sie zu töten und ihre Seelen zu fangen.
+<--->
+Habt Ihr gehört, dass ranghohe Offiziere der Kaiserlichen Legion sich im Duell messen, um aufzusteigen?
+<--->
+Ich wollte schon lange die Pilgerfahrt zu _shrine unternehmen, aber der Weg ist so weit....
+<--->
+Ich hörte, es gibt einen Daedra-Kult direkt hier in %cn.
+<--->
+%nam behauptet, die Inkarnation von %god zu sein. Bisher haben die Priester nichts dazu gesagt.
+<--->
+Mein Cousin behauptete, er habe eine Stadt in einem See hier in %reg gesehen. Allerdings ist er ein Trunkenbold und verbringt zu viel Zeit in der Sonne.
+<--->
+%fn2 hat einen leichten Hang zu "Süßem", wenn Ihr versteht, was ich meine. Aber ihr Lieferant ist noch nicht angekommen, und sie wirkt etwas nervös.
+<--->
+Seid vorsichtig, wenn Ihr die Straßen entlanggeht. Es gibt Gerüchte über einen Banditen, der unachtsame Reisende in der Nähe von %cn überfällt.
+<--->
+Ein Karawanenführer erzählte mir, er habe eine Gruppe Pilger in Roben und eine Menge Ausrüstung an einem Ort südlich von %cn abgeladen. Wollt Ihr wetten, dass das ein Haufen böser Zauberer ist, die sich dort niederlassen?
+<--->
+Das Wort, das ich höre, ist, dass eine Schmugglerbande in einer Höhle östlich von %cn ihr Unwesen treibt.
+<--->
+Die wilden Ratten sind in %cn in letzter Zeit ein echtes Problem geworden.
+<--->
+Es hat in letzter Zeit viele Diebstähle gegeben – hochwertige Beute, nicht bloß Taschendiebstähle. Ich denke, jemand Neues ist in der Stadt. Jemand Ehrgeiziges. Jemand wirklich Gutes.
+<--->
+Die Bettler in %cn sind wirklich zu einem Problem geworden. Sie akzeptieren einfach kein "Nein" als Antwort. Ja, dies mag die Stadt der Liebe und Wohltätigkeit %gods sein, aber manchmal möchte man diese jammernden Plagegeister ohrfeigen.
+<--->
+%mn2 hat keine Ahnung, was hinter seinem Rücken geschieht. Und ich werde es ihm sicher nicht sagen.
+<--->
+Was immer Ihr tut, spielt keine Karten mit %fn2. Es heißt, sie sei eine Gaunerin, die erst kürzlich aus der Kaiserprovinz hierhergekommen ist.
+<--->
+Man sagt, irgendwo in %reg liegt ein vergrabener Schatz. Das Problem ist, niemand hat jemals die Karte gefunden.
+<--->
+Habt Ihr gehört? %nam hat %fn2 kaltblütig ermordet! %fn2s Witwer %mn2 sucht nun Vergeltung. Das hat er auch verdient, wenn Ihr mich fragt.
+<--->
+Ich höre ständig von militärischem Aufrüsten. %nam, der neue Befehlshaber des Militärs von %reg, schickt viele Truppen gen Norden. Ich fürchte, es könnte Krieg bevorstehen.
+<--->
+Überall sterben die Leute wie die Fliegen. Erst %nam, dann wird %mn2 krank, und jetzt ist %fn2 tot. Da braut sich etwas zusammen, und es ist nichts Gutes.
+<--->
+Habt Ihr von den Helden von __hamlet_ gehört? Es waren gute Leute – Söldner, sagt man – die kamen und alle Probleme des Ortes gelöst haben.
+<--->
+Ich hörte, einige Einheiten des Militärs von %reg wurden nach __hamlet_ geschickt. Es scheint, der %rt ist wirklich paranoid wegen eines unserer Nachbarn.
+<--->
+Ich habe gehört, dass eine der benachbarten Regionen hinter all diesen Banditen steckt. Das macht mir Sorgen, was sie wohl im Schilde führen könnten.
+<--->
+Ich frage mich, woher diese Banditen kommen? Sie scheinen genau zu wissen, wie sie dem Militär von %reg entkommen können. Wo verstecken sie sich? Das muss irgendwo in der Wildnis sein.
+<--->
+Es ist in letzter Zeit wirklich ruhig geworden. Mit all den Räubern, die die Straßen unsicher machen, will niemand mehr reisen. Ich wünschte, der %rt würde etwas gegen diese Banditen unternehmen.
+<--->
+Einige Bauern kamen vor kurzem herein und erzählten, dass etwas, das sich durch den Boden bewegte, all ihr Vieh fraß! Ein riesiges Insektentier.
+<--->
+Dieser %ln Kerl, er ist ein seltsamer Kauz. Verlässt die Stadt immer mitten in der Nacht und kehrt erst am Morgen zurück. Bei all der Paranoia hier bleibt niemand unbemerkt.
+<--->
+Die Überfälle werden schlimmer. Diese verfluchten Banditen haben es unmöglich gemacht, die Straßen zu bereisen, besonders wenn Ihr eine Ebenerzkarawane seid. Sie schlachten Euch schneller ab, als Ihr %god sagen könnt.
+<--->
+In letzter Zeit sind viele Soldaten in die Stadt gekommen. Ich weiß nicht, wofür all die zusätzlichen Truppen hier sind, aber es macht mich nervös. Sicherlich tut es das.
+<--->
+Diese verdammten Banditen! Ich habe gerade von meinem Partner gehört. Sie haben wieder zugeschlagen, die Männer, die die Karawane bewachten, niedergemetzelt, darunter zwei Jungen hier aus %cn. Das ist so tragisch.
+<--->
+Hütet Euch vor der Wildnis von %reg, Freund, denn man erzählt von Riesen und Wahnsinnigen.
+<--->
+Man sollte sich hüten, nachts in %cn unterwegs zu sein… Diebstahl und Überfälle sind an der Tagesordnung, neben anderem Unheil.
+<--->
+Die Kantorei des Akatosch und das Haus Dibella sind im ständigen Streit um die Vorherrschaft in der Iliac-Bucht... Viele glauben, dass dies bald zu einem offenen Krieg führen wird.
+<--->
+Der Orden von Arkay und das Haus der Dibella sind im ständigen Streit um die Vorherrschaft in der Iliac-Bucht... Viele glauben, dass dies bald zu einem offenen Krieg führen wird.
+<--->
+Die Magiergilde und die Schule des Julianos sind im ständigen Streit um die Vorherrschaft in der Iliac-Bucht... Viele glauben, dass dies bald zu einem offenen Krieg führen wird.
+<--->
+Der Tempel von Stendarr und Ebenarm sind im ständigen Streit um die Vorherrschaft in der Iliac-Bucht... Viele glauben, dass dies bald zu einem offenen Krieg führen wird.
+<--->
+Die Resolution des Z'en und die Barmherzigkeit Maras sind im ständigen Streit um die Vorherrschaft in der Iliac-Bucht... Viele glauben, dass dies bald zu einem offenen Krieg führen wird.
+<--->
+Die Diebesgilde kontrolliert die die Städte von %reg... Wer diese besucht, sollte dies beherzigen oder die Konsequenzen tragen.
+<--->
+Sklaverei ist in der Iliac-Bucht illegal, doch es wird gemunkelt, dass der Handel mit Leibeigenen noch immer besteht... er liefert Gladiatoren und fremde Kurtisanen zur Unterhaltung des Adels von %reg.
+<--->
+Man sollte vorsichtig sein, bei Nacht in __cem_ zu gehen ... es heißt, dass die Toten und noch schlimmere Dinge aus den älteren, tieferen Gräbern hervorkommen können.
+<--->
+Es gibt eine rivalisierende Gilde zur Diebesgilde. Sie haben massenhaft rekrutiert. Aber die Diebesgilde ist noch immer größer und wird sie auslöschen, wenn sie es versuchen.
+<--->
+Viele geben den Bären, die in den letzten Jahren in der Region aktiv waren, die Schuld an den Morden in __village_ ... Man sagt sogar, sie würden von einem Werbären angeführt.
+<--->
+Man sagt, die Hexe =witch_ sei wieder aufgetaucht. Sie verschwand vor 700 Jahren, doch der Legende nach kehrt sie alle hundert Jahre zurück, um ihre Herrschaft des Mordens und der Folter erneut zu beginnen.
+<--->
+Vor einigen Jahrhunderten wurde hier scharenweise an Mithril entdeckt und abgebaut. Tempel wurden errichtet und wohlhabende Familien kauften Land ... Alles wurde aufgegeben, als das Mithril erschöpft war.
+<--->
+Die Familien %ln und %ln, zwei der wohlhabendsten in %cn, liegen sich seit Generationen in den Haaren.
+<--->
+Vor einem Monat überzeugte Fürstin %fn2 den Rat, ihr die alleinige Lizenz für den Pelzhandel in %cn zu verkaufen. Fürst %mn2 soll darüber wütend gewesen sein!
+<--->
+Man sagt, %nam und %mn2 und ihre gesamte Gefolgschaft seien auf einem Abenteuer in der Nähe von __village_ verloren gegangen. Es wäre eine Tragödie, wenn das wahr wäre.
+<--->
+Es heißt, der %rt mache sich Sorgen über die Anzahl der Orkangriffe – egal wie oft wir sie zurückschlagen, die Bastarde tauchen immer wieder an einem anderen Ort auf.
+<--->
+Die Orkbedrohung war gut fürs Geschäft – wir haben mehr betrunkene Söldner, als wir verkraften können ... und sie geben alle das Geld des %rt aus.
+<--->
+Nicht einmal der beste Späher von %ln konnten herausfinden, von wo die Orks ihre Angriffe starten.
+<--->
+Jemand namens %mn2 kam in die Stadt und behauptete, einen silbernen Wolfsanhänger zu besitzen, der Wölfe an seine Seite rufen könne. Ich glaube es erst, wenn ich es sehe.
+<--->
+Ihr seht aus wie jemand, der mir Gold schuldet.
+<--->
+Ich sah jemanden auf der Ostseite der Stadt in den Brunnen steigen. Ging direkt über den Rand und verschwand. Ich suchte nach ihm, aber es war nicht einmal eine Welle im Wasser zu sehen.
+<--->
+Ich habe einen Mann über die Dächer rennen sehen. Er sprang ... und lief dann einfach weiter in den Himmel über die Bäume. Ein Daedra, sage ich Euch!
+<--->
+Einer der Gastwirte hier verdünnt den Wein. Und er gibt Essig in die Getränke derjenigen, die ihn zu oft übers Ohr gehauen haben. Ich habe allerdings keine Ahnung, in welcher Taverne das passiert.
+<--->
+Wenn Ihr bei Vollmond in die Wildnis um %cn geht, werdet Ihr einen Turm erscheinen sehen. Ich war dort draußen mit meinen Hunden, und sie rannten direkt in die Dunkelheit. Auch meinen Weinschlauch habe ich verloren!
+<--->
+Tagsüber sind es die Zaunkönige, die verrückt spielen. Und nachts die Fledermäuse. Man sieht sie in weiten Kreisen über dem Friedhof fliegen.
+<--->
+Die Familienfarm von %ln brannte beim letzten Vollmond nieder. Und die Farm von %ln im Monat davor. Wir sollten uns in drei Tagen in Acht nehmen.
+<--->
+Jemand schaut in der Stadt ständig in die Fenster. Man sieht nur die Augen. Wie brennendes Gold sind sie, und groß. Sie starren einfach nur, bis man blinzelt, und dann sind sie weg.
+<--->
+Habt Ihr die Symbole in die Bäume geritzt gesehen? Dieser Kult, den wir vor Jahren losgeworden sind, ist zurück, sage ich Euch.
+<--->
+Der Winter naht, ich spüre es in meinen Knochen. Es wird ein schlimmer werden. So kalt, dass Eure Spucke auf den Lippen gefriert.
+<--->
+Hört Ihr diese Heulgeräusche? Das sind keine Wölfe. Etwas anderes streift durch die Hügel.
+<--->
+Wenn Ihr die nächste Runde bezahlt, erzähle ich Euch, was Ihr wissen müsst. Und auch ein paar Dinge, die Ihr nicht hören wollt.
+<--->
+Jemand hängt überall diese Poster für den Federzirkus auf, aber niemand hat je gesehen, wer es tut.
+<--->
+Viele örtliche Bauern sagen, dass ihre Kühe und Schweine gestohlen oder schlimmer noch, getötet wurden.
+<--->
+Ein Drache lebt auf dem Grund der Iliac-Bucht. Wenn Ihr seine Rätsel lösen könnt, gewährt er Euch eine große Belohnung.
+<--->
+Ich hörte, der Einsiedler bei __shrine_ verehrt heimlich Mehrunes Dagon.
+<--->
+Ich hörte, eine Gruppe Banditen in der Nähe von %cn sei von einer umherziehenden Zauberin in Schlangen verwandelt worden.
+<--->
+%nam wurde von Zombies in den Hügeln außerhalb der Stadt getötet.
+<--->
+Mein Nachbar erzählte mir, dass Geister bei Vollmond auf den Zinnen von __smuggler_ wandeln.
+<--->
+Anscheinend ist ein eiserner Atronach aus der Magiergilde entflohen.
+<--->
+Ein Freund eines Freundes hörte, dass tief in der Wildnis von %reg ein Ring aus magischen Steinmonolithen liegt.
+<--->
+Die Wachen des %rt haben einen mysteriösen Meuchelmörder in roten Roben gefangen genommen.
+<--->
+Eine Bande von Dieben hat versehentlich einen Tempel von %god in _village_ in Brand gesteckt.
+<--->
+Ich hörte in der Taverne, dass in %reg ein Stern gefallen ist.
+<--->
+Könnt Ihr es glauben? Einige sagen, der gegenwärtige %rt sei ein Doppelgänger. Wie damals mit Jagar Tharn!
+<--->
+Seltsame Kreaturen wurden in der Wildnis um %cn gesichtet.
+<--->
+Ich hörte etwas Merkwürdiges. Die Tochter eines Gastwirtes in %cn verschwand ungefähr zu der Zeit, als er seine neue Katze bekam.
+<--->
+Eine Karawane wird hier in %cn erwartet, die exotische Waffen aus den fernen Provinzen des Kaiserreiches bringt.
+<--->
+Eine Patrouille von Soldaten hat tief in der Wildnis von %reg eine verlorene Stadt entdeckt.
+<--->
+Man sagt, Fürstin %ln liegt im Sterben, aufgrund einer unheilbaren Krankheit.
+<--->
+Glaubt es oder nicht, aber ein untoter Ritter in den Ruinen von __smuggler_ hilft manchmal würdigen Abenteurern.
+<--->
+Ein Reisender erzählte mir, dass sich eine tödliche Seuche aus dem Dorf _village_ verbreitet.
+<--->
+Ein Betrunkener erzählte mir, %cn sei auf den Ruinen einer alten Nekropole erbaut worden.
+<--->
+Gestern Nacht wurde jemand von Dieben in einer Gasse nahe einer Taverne ermordet.
+<--->
+Mein Freund erzählte mir, dass das Grab seiner Familie in __cem_ geplündert wurde. Verfluchte Grabräuber.
+<--->
+%mn2 wurde dabei gehört, wie er prahlte, der %rt schulde ihm eine große Schuld.
+<--->
+Ich hörte, dass ein riesiger, schleimartiger Daedra in den Drachenschwanzbergen beschworen wurde.
+<--->
+%fn2 wurde dabei gehört, wie sie prahlte, sie habe magische Stiefel gestohlen, die es ihr ermöglichen, durch Wände zu gehen.
+<--->
+Des %lns Schwester ist vergangene Nacht verschwunden. Sie ward gefunden und ist wohlauf, doch sie spricht nicht darüber.
+<--->
+Die Priester im Tempel des %god kennen eines jeden Geheimnisse in dieser Stadt. Sie könnten das Ganze regieren, so viel weiß ich.
+<--->
+Die Weiber in manch einer Taverne sind wohlfeil – doch die Kur gegen das, was sie Euch geben, ist kostspielig.
+<--->
+Es gibt hier nicht genug Miliz oder Stadtwachen, um für Ordnung zu sorgen. Diese Stadt gleicht einem Pulverfass.
+<--->
+Das große Gespräch ist, dass die alte Mühle vergangene Nacht niederbrannte. Habt Ihr den Tumult vernommen?
+<--->
+Ich weiß, dass %fn2 dort drüben ein Heilmittel für das Ding auf Eurer Wange kennt – wenn Ihr das Münz habt.
+<--->
+Der Schmied %mn2 leistet gar vortreffliche Arbeit. Er reparierte meine Werkzeuge im vergangenen Monat.
+<--->
+Des %rt Schatzkammern sind wohl fast leer, mit all den Schwierigkeiten, die Miliz zu bezahlen.
+<--->
+Des %fn2 Sohn ist übel zugerichtet. Liegt seit Wochen darnieder, ein Fieber von einer riesigen Ratte will ihn nicht lassen.
+<--->
+Wer schert sich darum, wenn man bedenkt, dass des %mn2 Sohn mit der %ln davongelaufen ist?
+<--->
+Der %rt soll diesen Monat bereits drei Vorkoster gehabt haben, so hört man. Kein sicherer Beruf. Drei Köche auch, nehme ich an.
+<--->
+Nach solchen Dingen zu fragen, wird Euch nur die falsche Aufmerksamkeit bescheren.
+<--->
+Habt Ihr von dem Ruf nach Kolonisten gehört, die zu jener vulkanischen Insel namens Vvardenfell in Morrowind ziehen sollen? Klingt nach einer guten Gelegenheit, ein neues Leben zu beginnen, nicht wahr?
+<--->
+Ein Werber von irgendeiner Art verweilte gestern in %cn, um Leute zu bewegen, sich in einem Ort namens Vvardenfell in Morrowind niederzulassen. Ein Haufen Narren, in so feindseliges Land zu ziehen, wenn Ihr mich fragt.
+<--->
+%rt %rn pilgert wohl zu einem Tempel des %god, um ein Schwert segnen zu lassen, so sagt man. Der %rt hat es wohl erlangt, indem er ein gar scheußliches Wesen erschlug.
+<--->
+Die Wildnis um %cn wird von dem Geiste einer alten Vettel heimgesucht, die sich um ihre verlorenen Schweine kümmert.
+<--->
+Habt Ihr gestern gesehen, wie %mn2 mit einer Bratpfanne hinter %fn2 herjagte? Ich habe lange nicht mehr so gelacht.
+<--->
+Ein wichtiger Edelmann ward auf den Straßen gesehen, mit einer großen Feder, die aus seinem Hintern ragte.
+<--->
+Der Metzger %mn2 verkaufte mir gar scheußliches Fleisch. Morgen früh werde ich es dem Herrn melden.
+<--->
+Zwei alte Weiber verkaufen Puppen auf dem Markte. Sie sagen, jede Puppe könne ein geheimes Wort über ihren Besitzer sprechen. Pah!
+
+QBN:
+Place _smuggler_ remote dungeon
+Place _shrine_ remote cult
+Place _hamlet_ remote hamlet
+Place _village_ remote village
+Place _cem_ remote graveyard
+
+Foe _witch_ is Lich
+
+Clock _reset_ 7.00:00
+
+--	Quest start-up:
+    start timer _reset_
+
+_reset_ task:
+    end quest

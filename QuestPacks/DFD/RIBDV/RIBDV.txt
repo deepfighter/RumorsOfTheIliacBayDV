@@ -1,0 +1,29 @@
+Quest: RIBDV
+DisplayName: Gerüchte der Iliac-Bucht - Kontrolle
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+
+
+QBN:
+
+
+Clock _reset_ 7.00:00
+
+--	Quest start-up:
+    start timer _reset_
+    start quest RIBRUMORSDV
+
+_reset_ task:
+    start quest RIBRUMORSDV
+    end quest
