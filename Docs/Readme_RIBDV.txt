@@ -31,7 +31,7 @@
  *** Originalautor:-       Cliffworms                                      ***
  *** Veröffentlichung:-    21. September 2021                              ***
  *** Übersetzer:-          Frank 'Deepfighter' Schwalb                     ***
- *** Letztes Update:-      Januar 2025                                     ***
+ *** Letztes Update:-      24. Januar 2025                                 ***
  *** E-mail:-              daggerfalldeutsch@gmail.com                     ***
  *****************************************************************************
  *** Original                                                              ***
@@ -47,7 +47,7 @@
 
 ==============================================================================
                      --------------------------------------
-                                  I - BESCHREIBUNG
+                                 I - BESCHREIBUNG
                        ----------------------------------
 ==============================================================================
 
@@ -62,7 +62,7 @@ passen.
 
 ==============================================================================
                      --------------------------------------
-                                  II - INSTALLATION
+                                II - INSTALLATION
                        ----------------------------------
 ==============================================================================
 
@@ -81,7 +81,7 @@ Falls Ihr den Ordner „DFD" bereits habt, könnt Ihr ihn bedenkenlos
 
 ==============================================================================
                      --------------------------------------
-                                III - SPIELSTÄNDE
+                               III - SPIELSTÄNDE
                        ----------------------------------
 ==============================================================================
 
@@ -137,7 +137,7 @@ oder verändert werden.
 
 ==============================================================================
                      --------------------------------------
-                            VII - KONTAKTINFORMATIONEN
+                           VII - KONTAKTINFORMATIONEN
                        ----------------------------------
 ==============================================================================
 
@@ -186,10 +186,12 @@ Kontaktinformationen direkt.
 
 ==============================================================================
                      --------------------------------------
-                                IX - DANKSAGUNG
+                               IX - DANKSAGUNG
                        ----------------------------------
 ==============================================================================
 
+Cliffworms
+----------
  - Interkarma und die wunderbare Community, die uns Daggerfall Unity geschenkt
    haben.
  - JayH für das ausgezeichnete Quest-Tutorial sowie seine wertvollen
@@ -198,6 +200,10 @@ Kontaktinformationen direkt.
  - Projekt French Arena für den Zugang zu den originalen Arena-Dialogen.
  - Das Entwicklerteam von Daggerfall – wie könnte ich sie nicht erwähnen?
  - Die Autoren von The Elder Scrolls, Baldur’s Gate und Icewind Dale.
+
+Deepfighter
+-----------
+  - Cliffworms für seine tollen Modifikationen.
 
 ______________________________________________________________________________
 THE UNDERKING FINDS         Deepfighter / Daggerfall-Lokalisierungsteam © 2025
