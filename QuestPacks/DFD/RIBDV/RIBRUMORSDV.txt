@@ -279,7 +279,7 @@ Ich hörte, dass ein riesiger, schleimartiger Daedra in den Drachenschwanzbergen
 <--->
 %fn2 wurde dabei gehört, wie sie prahlte, sie habe magische Stiefel gestohlen, die es ihr ermöglichen, durch Wände zu gehen.
 <--->
-Des %lns Schwester ist vergangene Nacht verschwunden. Sie ward gefunden und ist wohlauf, doch sie spricht nicht darüber.
+Die Schwester von %ln ist vergangene Nacht verschwunden. Sie ward gefunden und ist wohlauf, doch sie spricht nicht darüber.
 <--->
 Die Priester im Tempel des %god kennen eines jeden Geheimnisse in dieser Stadt. Sie könnten das Ganze regieren, so viel weiß ich.
 <--->

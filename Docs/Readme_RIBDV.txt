@@ -88,7 +88,7 @@ Falls Ihr den Ordner „DFD" bereits habt, könnt Ihr ihn bedenkenlos
 Falls Ihr Gerüchte der Iliac-Bucht in einem bestehenden Spielstand aktiviert,
 müsst Ihr die Konsole von Daggerfall Unity öffnen und folgendes eingeben:
 
-        StartQuest RIBDV
+        Startquest RIBDV
 
 Damit wird die Quest, die die Gerüchte hinzufügt, gestartet.
 
@@ -165,7 +165,7 @@ Kontaktinformationen direkt.
 
 1.03
 
-    - Rechtschreibfehler und andere Textkorrekturen behoben.
+    - Rechtschreibfehler behoben und andere Textkorrekturen.
     - 20 neue Gerüchte hinzugefügt.
 
 1.02
